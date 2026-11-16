@@ -1,0 +1,25 @@
+{
+  "name": "Little Steps \u2014 Daily Habit Tracker",
+  "short_name": "Little Steps",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8edff",
+  "theme_color": "#8b70d6",
+  "description": "A gentle daily habit tracker for health, GRC learning, creativity and mindful living.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
